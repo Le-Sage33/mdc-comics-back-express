@@ -30,6 +30,9 @@ const comics_books = [
         description: "Logan, alias Wolverine est un super-héros évoluant dans l'univers Marvel. Créé par l'éditeur en chef de Marvel Comics Roy Thomas, le scénariste Len Wein et le dessinateur John Romita, le personnage de fiction apparaît pour la première fois dans le comic book Incredible Hulk (vol. 1) #180 en octobre 1974. Son nom véritable est James Howlett mais, ayant oublié son passé après différents traumatismes, il se fait appeler Logan. Apparaissant sur la dernière page du magazine Incredible Hulk #180 où est annoncée son arrivée pour le numéro suivant, il est ensuite intégré à la série des nouveaux X-Men, dont il devient l'un des protagonistes et où il gagne une importance croissante. Il est par la suite un membre des X-Men et des New Avengers.",
         address: "https://www.amazon.fr/s?k=wolverine+comics&__mk_fr_FR=%C3%85M%C3%85%C5%BD%C3%95%C3%91&crid=3GMGXU3EAFTDL&sprefix=wolverine+comics%2Caps%2C165&ref=nb_sb_noss_1",
         created: new Date()
+
+
+        
     },
 
 ];
